@@ -1,3 +1,4 @@
+# programa que pida los segundos y muestre por pantalla y en la misma frase los minutos y las horas
 var1=int(input("introduce un numero:" ))
 var2=int(input("introduce un numero:" ))
 minvar1=var1/60
