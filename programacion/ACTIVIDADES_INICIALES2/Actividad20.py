@@ -8,7 +8,7 @@ elif  total<0:
     print(num2,"es mayor que", num1)
 elif  total==0:
     print("los numeros son iguales")
-elif float(num1>10 and num1<0):
+elif float(num1>10 or num1<0):
     print("no se puede realizar porque un numero es mayor que 10")
-elif  float(num2>10 and num2<0):
+elif  float(num2>10 or num2<0):
     print("no se puede realizar porque un numero es mayor que 10")
