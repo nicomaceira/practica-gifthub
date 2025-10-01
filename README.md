@@ -1,6 +1,8 @@
 # practica-github
 En esta practica aprendere a como crear un repositorio en GiftHub
+
 ACTIVIDADES INICIALES 1
+
 1. Programa que muestre por pantalla la frase “hello world”
 2. Programa que introduzca por teclado tres tipos de variables y se muestren por pantalla en el siguiente orden: número entero, texto y número decimal.
 3. Programa que pida dos números enteros y realice la suma correspondiente
@@ -19,7 +21,9 @@ ACTIVIDADES INICIALES 1
 16. Utiliza el método sqrt de la librería math para calcular la raíz cuadrada de un número. El resultado de la raíz cuadrada divídelo entre 2 de manera que se obtenga siempre un resultado entero. Haz que se muestre por pantalla los dos resultados de todo el proceso (raíz y división).
 17. Calcula el índice de masa corporal IMC de una persona, introduciendo por teclado el peso (en kg) y dividiendo por la estatura (en metros y elevado al cuadrado). Si el resultado es igual o superior a 25, debe aparecer un mensaje informando de sobrepeso.
 18. Cines Paradiso celebran su décimo aniversario y por ser un día especial realizan importantes descuentos. A los adultos se les aplicará un 10% de descuento y a los menores de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar introduciendo por teclado el número de menores y el número de adultos que asisten al cine.
+
 ACTIVIDADES INICIALES 2
+
 19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son iguales
 20. A partir del ejercicio anterior, forzar que el usuario solo pueda introducir por teclados números entre 0 y 10
 21.  Programa que calcula una ecuación de segundo grado. Controla que el valor de la raíz cuadrada no de un valor negativo
