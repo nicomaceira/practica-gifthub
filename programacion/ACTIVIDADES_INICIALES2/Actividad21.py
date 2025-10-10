@@ -20,5 +20,4 @@ def resolver_ecuacion_segundo_grado(a, b, c):
 a = float(input("Introduce el valor de a: "))
 b = float(input("Introduce el valor de b: "))
 c = float(input("Introduce el valor de c: "))
-
 resolver_ecuacion_segundo_grado(a, b, c)
