@@ -12,5 +12,3 @@ elif comanda==3:
     print("tu pedido son unas lentejas")
 elif comanda==4:
     print("tu pedido es un bocadillo de jamon")
-else:
-    print("error de comanda")
