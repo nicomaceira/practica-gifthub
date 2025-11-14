@@ -1,6 +1,6 @@
-# Realiza un programa que permita introducir una palabra por teclado y puedas recorrer el stringdistinguiendo vocales y las consonantes
+#A partir del programa anterior, soluciona el error que se produce en el test anterior con la palabra Abrigo utilizando únicamente una instrucción.
 palabra = input("Introduce una palabra: ")
-vocales = "aeiouáéíóú"
+vocales = "AEIOUaeiouáéíóú"
 grupo_vocales = ""
 grupo_consonantes = ""
 for letra in palabra:
@@ -11,4 +11,3 @@ for letra in palabra:
             grupo_consonantes += letra
 print("Vocales:", grupo_vocales)
 print("Consonantes:", grupo_consonantes)
-
