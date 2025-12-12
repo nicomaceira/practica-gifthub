@@ -1,4 +1,4 @@
-# practica-github
+# portafolio
 En esta practica aprendere a como crear un repositorio en GiftHub
 
 ACTIVIDADES INICIALES 1
